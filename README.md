@@ -2,8 +2,8 @@
 
 ### Datasets used in each lab
 
-Linear Regression - Fuel.csv
-Logistic Regression - Churn.csv
-Ridge and Lasso Regression - Melbourne.csv
-Naive Bayes and SVM - Amazon corpus.csv
-kMeans and PCA - Churn.csv
+* Linear Regression - Fuel.csv
+* Logistic Regression - Churn.csv
+* Ridge and Lasso Regression - Melbourne.csv
+* Naive Bayes and SVM - Amazon corpus.csv
+* kMeans and PCA - Churn.csv
